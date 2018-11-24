@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	background-image: url('200.jpg');
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+h1{
+	font-size: 500%;
+	font-family: Algerian;
+	color: red;
+}
+p{
+	font-family: Cooper Black;
+	color: black;
+}
+.movies img{
+	width: 1000px;
+	height:500px;
+}
+.step a
+{
+	text-decoration: none;
+	text-align: center;
+	color: blue;
+	font-size: 20px;
+	font-family: Times New Roman;
+}
+.step a:hover
+{
+	border: solid blue 2px;
+}
